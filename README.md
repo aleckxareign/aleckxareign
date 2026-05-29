@@ -30,6 +30,7 @@ I enjoy turning ideas into projects that feel polished, useful, and human-center
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnuemacs&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
