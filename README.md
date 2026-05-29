@@ -49,6 +49,7 @@ Hi! I'm **Aleckxa Reign D. Bugtong**, a Computer Science student with a passion 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=aleckxareign&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleckxareign&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
