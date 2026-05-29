@@ -12,9 +12,9 @@ Hellooo, I’m Aleckxa Reign D. Bugtong — a BS Computer Science student who ge
 
 I like working on projects that mix logic + creativity, whether that’s designing interfaces, connecting backend systems, or making apps feel smoother and more intuitive to use. Basically… if I can code it and make it look cute, I’m in 😭
 
-💻 Exploring full-stack development
-🎨 Into UI/UX design and creating visuals/mockups in Canva
-🗄️ Interested in databases and system design
+💻 Exploring full-stack development<br>
+🎨 Into UI/UX design and creating visuals/mockups in Canva<br>
+🗄️ Interested in databases and system design<br>
 📚 Always learning, experimenting, and improving little by little
 
 I enjoy turning ideas into projects that feel polished, useful, and human-centered 🤍
