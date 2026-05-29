@@ -42,8 +42,6 @@ Hi! I'm **Aleckxa Reign D. Bugtong**, a Computer Science student with a passion 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleckxareign/TindaTrack)
-
 ---
 
 ## 📊 GitHub Stats
