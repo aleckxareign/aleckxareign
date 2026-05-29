@@ -12,7 +12,6 @@ Hi! I'm **Aleckxa Reign D. Bugtong**, a Computer Science student with a passion 
 
 - 🎓 Currently studying **BS Computer Science**
 - 💡 Interested in **full-stack development**, **UI/UX design**, and **database systems**
-- 🛠️ Currently building **TindaTrack** — a cloud-synced sari-sari store management app
 - 🎨 I also design using **Canva** for visual content and mockups
 - 📚 Always learning something new
 
