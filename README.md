@@ -41,25 +41,6 @@ Hi! I'm **Aleckxa Reign D. Bugtong**, a Computer Science student with a passion 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Featured Project
-
-### 🏪 TindaTrack
-> A full-stack sari-sari store management web app with real-time cloud sync, installable as a PWA on any device.
-
-**Features:**
-- 📦 Inventory management with categories and image uploads
-- 🧾 Sales recording with cash, GCash, and utang support
-- 💸 Utang (credit) tracker with payment history
-- 📊 Dashboard with daily/monthly earnings and top sellers
-- 🔄 Real-time sync across multiple devices via Supabase
-- 📱 Installable on Android & iPhone (PWA)
-
-**Built with:**
-`React` `Vite` `Node.js` `Express` `Supabase` `PostgreSQL` `Vercel` `Railway`
 
 [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleckxareign/TindaTrack)
 
